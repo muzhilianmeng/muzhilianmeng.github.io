@@ -5,6 +5,6 @@ Email: <a target="_blank" href="mailto:muzhilianmeng@163.com">muzhilianmeng@163.
 
 <strong>Here are some of my open or public projects:</strong>
 
-<a target="_blank" href="https://github.com/muzhilianmeng">muzhilianmeng</a>
+<a target="_blank" href="https://github.com/muzhilianmeng.github.io">muzhilianmeng</a>
 
-* A muzhilianmeng software
+* muzhilianmeng website
