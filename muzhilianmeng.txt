@@ -11,4 +11,5 @@ Email: <a target="_blank" href="mailto:muzhilianmeng@163.com">muzhilianmeng@163.
 
 <a target="_blank" href="https://github.com/muzhilianmeng/equalchain">EqualChain</a>
 
-* EqualChain is a tool,service,solving unfair status in the world ! Visit http://www.equalchain.org
+* EqualChain is a tool,service,solving unfair status in the world ! 
+-> Visit http://www.equalchain.org
