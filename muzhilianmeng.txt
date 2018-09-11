@@ -13,3 +13,11 @@ Email: <a target="_blank" href="mailto:muzhilianmeng@163.com">muzhilianmeng@163.
 
 * EqualChain is a tool,service,solving unfair status in the world ! 
 -> Visit http://www.equalchain.org
+
+<a target="_blank" href="https://github.com/muzhilianmeng/wordpress-theme-for-business">muzhilianmeng</a>
+
+*  awesome wordpress theme for business website
+
+<a target="_blank" href="https://github.com/muzhilianmeng/jsonabc">muzhilianmeng</a>
+
+*  a json formate tool
