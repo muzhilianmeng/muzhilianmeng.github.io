@@ -19,6 +19,6 @@ Email: <a target="_blank" href="mailto:muzhilianmeng@163.com">muzhilianmeng@163.
 * a json formate tool
 * Visit <a target="_blank" href="https://muzhilianmeng.github.io/jsonabc/">https://muzhilianmeng.github.io/jsonabc/</a>
 
-<a target="_blank" href="https://www.uugouhuawang.com">uugouhuawang</a>
+<a target="_blank" href="http://www.uugouhuawang.com">uugouhuawang</a>
 
 * awesome wordpress theme for business website
